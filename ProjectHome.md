@@ -1,0 +1,1 @@
+This project targets to port the Modern Warfare 2 Singleplayer Map "Team Player" aka "Roadkill.ff" to be compatible with the FourDeltaOne Multiplayer Modification. Other Gamemodes than Team-Deathmatch are not planned yet, but I may change my mind if there is really interest in adding them.
